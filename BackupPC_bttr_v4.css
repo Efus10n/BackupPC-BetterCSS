@@ -334,7 +334,7 @@ div[class="NavMenu"] + div[class="NavMenu"] {
 .NavMenu a:before {
 	display: inline-block;
 	width:1em;
-	font-family: "Font Awesome 5 Free";
+	font-family: "Font Awesome 6 Free";
 	font-size:14px;
 	font-weight:900;
 	text-align:center;
@@ -383,6 +383,7 @@ div[class="NavMenu"] + div[class="NavMenu"] {
 }
 
 .NavMenu a[href="https://github.com/backuppc/backuppc/wiki"]:before {
+	font-family: "Font Awesome 6 Brands";
 	content:"\f09b";
 }
 
